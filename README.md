@@ -4,7 +4,7 @@ Tohle je náš první pokus
 Náš repozitář je prázdný a obsahuje:
 - nic
 - nulu
-- prázdno
+- uwu
 ## Podnadpis
 text
 - vakum 
